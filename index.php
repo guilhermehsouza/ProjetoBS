@@ -23,7 +23,7 @@ This project will auto-refresh as you edit the HTML and CSS.
 
 <body>
     <div class="bg-dark text-white text-center p-5 mb-2">
-        <h1>Loja de Celulares</h1>
+        <h1>Loja de Celulare</h1>
     </div>
 
     <div class="container">
