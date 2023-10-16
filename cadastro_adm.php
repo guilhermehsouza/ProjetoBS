@@ -19,7 +19,38 @@
         <p>Loja de Celulares</p>
     </div>
     
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8 mx-auto">
 
+                <form action="cadastro_adm1.php" method="post">
+                
+                    <p>
+                        Digite o nome do Administrador
+                        <input type="text" name="nome" class="form-control">
+                    </p>
+
+                    <p>
+                        Digite o email
+                        <input type="text" name="email" class="form-control">
+                    </p>
+
+                    <p>
+                        Digite a senha
+                        <input type="password" name="senha" class="form-control">
+                    </p>
+
+                    <p>
+                        <input type="submit" value="Cadastrar" class="btn btn-success">
+                    </p>
+                
+                </form>
+            
+            
+            </div>
+        </div>
+    </div>
+    
     
 </body>
 </html>
